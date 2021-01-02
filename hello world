@@ -1,0 +1,32 @@
+
+// c sharp
+
+using System; 
+namespace HelloWorldApp { 
+ 
+	class noob_coder { 
+		
+		static void Main(string[] args) { 
+			
+			Console.WriteLine("Hello World!"); 
+			
+          Console.ReadKey(); 
+		} 
+	} 
+} 
+
+// python
+
+print ("hello world");
+
+// java
+
+class pls_sub_to_Samuel_Miller {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+
+// JS
+
+console.log('Hello World');
